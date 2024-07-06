@@ -3,10 +3,7 @@ HTML+CSS Tutorial
 
 ### Who
 
-I'm Cassidy. I'm a engineer and I've been teaching myself HTML, CSS, and other web development and scripting for over 15 years.
-And I want to teach you now.
-Because you're good looking.
-And because it's useful.
+I'm Shiva. I'm a Full-Stack Developer and I've been teaching & sharing my experience. I want you to learn HTML, CSS, and other stacks because it's useful.
 
 ### What
 
